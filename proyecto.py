@@ -1,5 +1,5 @@
 from json import load, dump
-archivo_datos = "inventario.json"
+archivo_datos = "invemtario.json"
 
 def cargar_datos():
     try:
