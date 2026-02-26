@@ -1,0 +1,37 @@
+[
+    {
+        "tipo": "libro",
+        "titulo": "cien a\u00f1os de soledad",
+        "autor": "miguel garcia marquez",
+        "genero": "drama",
+        "valoracion": 10
+    },
+    {
+        "tipo": "peliculas",
+        "titulo": "cien a\u00f1os juntos",
+        "autor": "nick",
+        "genero": "ficcion",
+        "valoracion": 9.8
+    },
+    {
+        "tipo": "musiaca",
+        "titulo": "sufrir es crecer",
+        "autor": "she",
+        "genero": "rap",
+        "valoracion": 10
+    },
+    {
+        "tipo": "Libro",
+        "titulo": "yo",
+        "autor": "shen",
+        "genero": "filosofico",
+        "valoracion": "10"
+    },
+    {
+        "tipo": "Libro",
+        "titulo": "abc",
+        "autor": "merly",
+        "genero": "fantasia",
+        "valoracion": "6"
+    }
+]

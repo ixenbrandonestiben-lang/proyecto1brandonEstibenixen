@@ -1,6 +1,6 @@
 from json import load, dump
 archivo_datos = "invemtario.json"
-
+#Comentario de prueba
 def cargar_datos():
     try:
         with open(archivo_datos, "r") as archivo:
